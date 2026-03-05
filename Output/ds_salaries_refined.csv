@@ -1,0 +1,566 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,salary_usd_norm,salary_usd_zscore,salary_level,is_remote
+2020,Mid-level,Full-Time,data scientist,70000,EUR,79833.0,DE,0,DE,Large,0.273923464131485,-0.45082543974170586,Medio,Presencial
+2020,Senior,Full-Time,machine learning scientist,260000,USD,260000.0,JP,0,JP,Small,0.9150746159772675,2.409732504728633,Alto,Presencial
+2020,Senior,Full-Time,big data engineer,85000,GBP,109024.0,GB,50,GB,Medium,0.37780399316027624,0.01264759892260932,Medio,Híbrido
+2020,Mid-level,Full-Time,product data analyst,20000,USD,20000.0,HN,0,HN,Small,0.06099880607319074,-1.4008094184475388,Bajo,Presencial
+2020,Senior,Full-Time,machine learning engineer,150000,USD,150000.0,US,50,US,Large,0.5236232031045657,0.6632341232728878,Alto,Híbrido
+2020,Entry-level,Full-Time,data analyst,72000,USD,72000.0,US,100,US,Large,0.24604856488574067,-0.5751920017593681,Medio,Remoto
+2020,Senior,Full-Time,lead data scientist,190000,USD,190000.0,US,100,US,Small,0.6659691714219117,1.2983244438022499,Alto,Remoto
+2020,Mid-level,Full-Time,data scientist,11000000,HUF,35735.0,HU,50,HU,Large,0.11699415136002676,-1.150980763609301,Bajo,Híbrido
+2020,Mid-level,Full-Time,business data analyst,135000,USD,135000.0,US,100,US,Large,0.4702434649855608,0.425075253074377,Medio,Remoto
+2020,Senior,Full-Time,lead data engineer,125000,USD,125000.0,NZ,50,NZ,Small,0.43465697290622424,0.2663026729420365,Medio,Híbrido
+2020,Entry-level,Full-Time,data scientist,45000,EUR,51321.0,FR,0,FR,Small,0.17245925791488068,-0.9035178202150351,Bajo,Presencial
+2020,Mid-level,Full-Time,data scientist,3000000,INR,40481.0,IN,0,IN,Large,0.13388350050087988,-1.0756272970784921,Bajo,Presencial
+2020,Entry-level,Full-Time,data scientist,35000,EUR,39916.0,FR,0,FR,Medium,0.13187286369839735,-1.0845979478559695,Bajo,Presencial
+2020,Mid-level,Full-Time,lead data analyst,87000,USD,87000.0,US,100,US,Large,0.29942830300474543,-0.3370331315608574,Medio,Remoto
+2020,Mid-level,Full-Time,data analyst,85000,USD,85000.0,US,100,US,Large,0.29231100458887815,-0.3687876475873255,Medio,Remoto
+2020,Mid-level,Full-Time,data analyst,8000,USD,8000.0,PK,50,PK,Large,0.018295015577986906,-1.5913365146063474,Bajo,Híbrido
+2020,Entry-level,Full-Time,data engineer,4450000,JPY,41689.0,JP,100,JP,Small,0.1381823487440637,-1.0564475693985054,Bajo,Remoto
+2020,Senior,Full-Time,big data engineer,100000,EUR,114047.0,PL,100,GB,Small,0.395679088131727,0.09239906592308396,Medio,Remoto
+2020,Entry-level,Full-Time,data science consultant,423000,INR,5707.0,IN,50,IN,Medium,0.010135032944195042,-1.627743067230693,Bajo,Híbrido
+2020,Mid-level,Full-Time,lead data engineer,56000,USD,56000.0,PT,100,US,Medium,0.18911017755880222,-0.829228129971113,Bajo,Remoto
+2020,Mid-level,Full-Time,machine learning engineer,299000,CNY,43331.0,CN,0,CN,Medium,0.14402565074349077,-1.0303771117407752,Bajo,Presencial
+2020,Mid-level,Full-Time,product data analyst,450000,INR,6072.0,IN,100,IN,Large,0.011433939905090828,-1.6219478680558626,Bajo,Remoto
+2020,Senior,Full-Time,data engineer,42000,EUR,47899.0,GR,50,GR,Large,0.1602815603253317,-0.957849797136322,Bajo,Híbrido
+2020,Mid-level,Full-Time,bi data analyst,98000,USD,98000.0,US,0,US,Medium,0.33857344429201564,-0.16238329341528285,Medio,Presencial
+2020,Mid-level,Full-Time,lead data scientist,115000,USD,115000.0,AE,0,AE,Large,0.39907048082688773,0.107530092809696,Medio,Presencial
+2020,Executive,Full-Time,director of data science,325000,USD,283864.5,US,100,US,Large,1.0,2.7886353285854573,Alto,Remoto
+2020,Entry-level,Full-Time,research scientist,42000,USD,42000.0,NL,50,NL,Large,0.1392890886477311,-1.0515097421563897,Bajo,Híbrido
+2020,Senior,Full-Time,data engineer,720000,MXN,33511.0,MX,0,MX,Small,0.10907971552158233,-1.1862917854307335,Bajo,Presencial
+2020,Entry-level,Contract,business data analyst,100000,USD,100000.0,US,100,US,Large,0.34569074270788297,-0.13062877738881476,Medio,Remoto
+2020,Senior,Full-Time,machine learning manager,157000,CAD,117104.0,CA,50,CA,Large,0.40655787876038013,0.14093584366954046,Medio,Híbrido
+2020,Mid-level,Full-Time,data engineering manager,51999,EUR,59303.0,DE,100,DE,Small,0.20086439589260707,-0.776785546753401,Bajo,Remoto
+2020,Entry-level,Full-Time,big data engineer,70000,USD,70000.0,US,100,US,Large,0.23893126646987337,-0.6069465177858363,Medio,Remoto
+2020,Senior,Full-Time,data scientist,60000,EUR,68428.0,GR,100,US,Large,0.23333706991500167,-0.6319055673826401,Medio,Remoto
+2020,Mid-level,Full-Time,research scientist,450000,USD,283864.5,US,0,US,Medium,1.0,2.7886353285854573,Alto,Presencial
+2020,Mid-level,Full-Time,data analyst,41000,EUR,46759.0,FR,50,FR,Large,0.15622470022828736,-0.9759498712714089,Bajo,Híbrido
+2020,Mid-level,Full-Time,data engineer,65000,EUR,74130.0,AT,50,AT,Large,0.2536284876986393,-0.5413734421911797,Medio,Híbrido
+2020,Mid-level,Full-Time,data science consultant,103000,USD,103000.0,US,100,US,Large,0.3563666903316839,-0.0829970033491126,Medio,Remoto
+2020,Entry-level,Full-Time,machine learning engineer,250000,USD,250000.0,US,50,US,Large,0.8794881238979309,2.250959924596293,Alto,Híbrido
+2020,Entry-level,Full-Time,data analyst,10000,USD,10000.0,NG,100,NG,Small,0.025412313993854213,-1.5595819985798793,Bajo,Remoto
+2020,Entry-level,Full-Time,machine learning engineer,138000,USD,138000.0,US,100,US,Small,0.4809194126093617,0.47270702711407914,Medio,Remoto
+2020,Mid-level,Full-Time,data scientist,45760,USD,45760.0,PH,100,US,Small,0.1526696096695616,-0.9918112520266297,Bajo,Remoto
+2020,Executive,Full-Time,data engineering manager,70000,EUR,79833.0,ES,50,ES,Large,0.273923464131485,-0.45082543974170586,Medio,Híbrido
+2020,Mid-level,Full-Time,machine learning infrastructure engineer,44000,EUR,50180.0,PT,0,PT,Medium,0.16839883916862836,-0.9216337716081351,Bajo,Presencial
+2020,Mid-level,Full-Time,data engineer,106000,USD,106000.0,US,100,US,Large,0.36704263795548486,-0.03536522930941045,Medio,Remoto
+2020,Mid-level,Full-Time,data engineer,88000,GBP,112872.0,GB,50,GB,Large,0.3914976753124049,0.07374328775753394,Medio,Híbrido
+2020,Entry-level,Part-Time,ml engineer,14000,EUR,15966.0,DE,100,DE,Small,0.04664321516838638,-1.4648582772729248,Bajo,Remoto
+2020,Mid-level,Full-Time,data scientist,60000,GBP,76958.0,GB,100,GB,Small,0.2636923476586757,-0.49647255652975375,Medio,Remoto
+2020,Senior,Full-Time,data engineer,188000,USD,188000.0,US,100,US,Large,0.6588518730060444,1.2665699277757816,Alto,Remoto
+2020,Mid-level,Full-Time,data scientist,105000,USD,105000.0,US,100,US,Large,0.3634839887475512,-0.0512424873226445,Medio,Remoto
+2020,Mid-level,Full-Time,data engineer,61500,EUR,70139.0,FR,50,FR,Large,0.23942591870977614,-0.6047395789219967,Medio,Híbrido
+2020,Entry-level,Full-Time,data analyst,450000,INR,6072.0,IN,0,IN,Small,0.011433939905090828,-1.6219478680558626,Bajo,Presencial
+2020,Entry-level,Full-Time,data analyst,91000,USD,91000.0,US,100,US,Large,0.31366289983648005,-0.2735240995079212,Medio,Remoto
+2020,Entry-level,Full-Time,ai scientist,300000,DKK,45896.0,DK,50,DK,Small,0.1531535859618406,-0.9896519449368298,Bajo,Híbrido
+2020,Entry-level,Full-Time,data engineer,48000,EUR,54742.0,PK,100,DE,Large,0.1846333968552217,-0.8492017205517614,Bajo,Remoto
+2020,Senior,Freelance,computer vision engineer,60000,USD,60000.0,RU,100,US,Small,0.20334477439053683,-0.7657190979181767,Medio,Remoto
+2020,Senior,Full-Time,principal data scientist,130000,EUR,148261.0,DE,100,DE,Medium,0.517434712131969,0.6356235715878737,Alto,Remoto
+2020,Mid-level,Full-Time,data scientist,34000,EUR,38776.0,ES,100,ES,Medium,0.127816003601353,-1.1026980219910563,Bajo,Remoto
+2020,Mid-level,Full-Time,data scientist,118000,USD,118000.0,US,100,US,Medium,0.4097464284506887,0.15516186684939814,Medio,Remoto
+2020,Senior,Full-Time,data scientist,120000,USD,120000.0,US,50,US,Large,0.416863726866556,0.18691638287586626,Medio,Híbrido
+2020,Mid-level,Full-Time,data scientist,138350,USD,138350.0,US,100,US,Medium,0.48216493983213854,0.4782640674187111,Medio,Remoto
+2020,Mid-level,Full-Time,data engineer,110000,USD,110000.0,US,100,US,Large,0.3812772347872195,0.028143802743525754,Medio,Remoto
+2020,Mid-level,Full-Time,data engineer,130800,USD,130800.0,ES,100,US,Medium,0.45529713831223945,0.358390769418794,Medio,Remoto
+2020,Entry-level,Part-Time,data scientist,19000,EUR,21669.0,IT,50,IT,Small,0.06693819160123202,-1.3743102748234513,Bajo,Híbrido
+2020,Senior,Full-Time,data scientist,412000,USD,283864.5,US,100,US,Large,1.0,2.7886353285854573,Alto,Remoto
+2020,Senior,Full-Time,machine learning engineer,40000,EUR,45618.0,HR,100,HR,Small,0.15216428148203504,-0.9940658226645088,Bajo,Remoto
+2020,Entry-level,Full-Time,data scientist,55000,EUR,62726.0,DE,50,DE,Small,0.21304565213136398,-0.7224376925741007,Medio,Híbrido
+2020,Entry-level,Full-Time,data scientist,43200,EUR,49268.0,DE,0,DE,Small,0.16515335109099288,-0.9361138309162046,Bajo,Presencial
+2020,Senior,Full-Time,data science manager,190200,USD,190200.0,US,100,US,Medium,0.6666809012634984,1.3014998954048966,Alto,Remoto
+2020,Entry-level,Full-Time,data scientist,105000,USD,105000.0,US,100,US,Small,0.3634839887475512,-0.0512424873226445,Medio,Remoto
+2020,Senior,Full-Time,data scientist,80000,EUR,91237.0,AT,0,AT,Small,0.31450629969876037,-0.26976118935878474,Medio,Presencial
+2020,Mid-level,Full-Time,data scientist,55000,EUR,62726.0,FR,50,LU,Small,0.21304565213136398,-0.7224376925741007,Medio,Híbrido
+2020,Mid-level,Full-Time,data scientist,37000,EUR,42197.0,FR,50,FR,Small,0.139990142541694,-1.0483819223277826,Bajo,Híbrido
+2021,Entry-level,Full-Time,research scientist,60000,GBP,82528.0,GB,50,GB,Large,0.2835140237468662,-0.40803622939604006,Medio,Híbrido
+2021,Executive,Full-Time,bi data analyst,150000,USD,150000.0,IN,100,US,Large,0.5236232031045657,0.6632341232728878,Alto,Remoto
+2021,Executive,Full-Time,head of data,235000,USD,235000.0,US,100,US,Large,0.8261083857789261,2.012801054397782,Alto,Remoto
+2021,Senior,Full-Time,data scientist,45000,EUR,53192.0,FR,50,FR,Large,0.17911749058292453,-0.8738114704722741,Bajo,Híbrido
+2021,Mid-level,Full-Time,bi data analyst,100000,USD,100000.0,US,100,US,Medium,0.34569074270788297,-0.13062877738881476,Medio,Remoto
+2021,Mid-level,Part-Time,3d computer vision researcher,400000,INR,5409.0,IN,50,IN,Medium,0.009074555480230813,-1.6324744901186368,Bajo,Híbrido
+2021,Mid-level,Contract,ml engineer,270000,USD,270000.0,US,100,US,Large,0.950661108056604,2.568505084860974,Alto,Remoto
+2021,Entry-level,Full-Time,data analyst,80000,USD,80000.0,US,100,US,Medium,0.2745177585492099,-0.4481739376534958,Medio,Remoto
+2021,Senior,Full-Time,data analytics engineer,67000,EUR,79197.0,DE,100,DE,Large,0.27166016323523917,-0.4609233758381227,Medio,Remoto
+2021,Mid-level,Full-Time,data engineer,140000,USD,140000.0,US,100,US,Large,0.48803671102522905,0.5044615431405473,Alto,Remoto
+2021,Mid-level,Full-Time,applied data scientist,68000,CAD,54238.0,GB,50,CA,Large,0.18283983765442313,-0.8572038585904314,Bajo,Híbrido
+2021,Mid-level,Full-Time,machine learning engineer,40000,EUR,47282.0,ES,100,ES,Small,0.15808587376403666,-0.9676460653304875,Bajo,Remoto
+2021,Executive,Full-Time,director of data science,130000,EUR,153667.0,IT,100,PL,Large,0.5366727697500583,0.7214560284074171,Alto,Remoto
+2021,Mid-level,Full-Time,data engineer,110000,PLN,28476.0,PL,100,PL,Large,0.09116191675963639,-1.266233779527367,Bajo,Remoto
+2021,Entry-level,Full-Time,data analyst,50000,EUR,59102.0,FR,50,FR,Medium,0.2001491074018124,-0.7799768756140609,Bajo,Híbrido
+2021,Mid-level,Full-Time,data analytics engineer,110000,USD,110000.0,US,100,US,Large,0.3812772347872195,0.028143802743525754,Medio,Remoto
+2021,Senior,Full-Time,lead data analyst,170000,USD,170000.0,US,100,US,Large,0.5947961872632387,0.9807792835375688,Alto,Remoto
+2021,Senior,Full-Time,data analyst,80000,USD,80000.0,BG,100,US,Small,0.2745177585492099,-0.4481739376534958,Medio,Remoto
+2021,Senior,Full-Time,marketing data analyst,75000,EUR,88654.0,GR,100,DK,Large,0.3053143087946677,-0.3107721468069683,Medio,Remoto
+2021,Entry-level,Full-Time,data science consultant,65000,EUR,76833.0,DE,100,DE,Small,0.263247516507684,-0.498457213781408,Medio,Remoto
+2021,Mid-level,Full-Time,lead data analyst,1450000,INR,19609.0,IN,100,IN,Large,0.05960737423288868,-1.4070174263307134,Bajo,Remoto
+2021,Senior,Full-Time,lead data engineer,276000,USD,276000.0,US,0,US,Large,0.9720130033042058,2.663768632940378,Alto,Presencial
+2021,Entry-level,Full-Time,data scientist,2200000,INR,29751.0,IN,50,IN,Large,0.0956991944997518,-1.2459902755604935,Bajo,Híbrido
+2021,Mid-level,Full-Time,cloud data engineer,120000,SGD,89294.0,SG,50,SG,Large,0.3075918442877453,-0.3006107016784985,Medio,Híbrido
+2021,Entry-level,Part-Time,ai scientist,12000,USD,12000.0,BR,100,US,Small,0.03252961240972152,-1.5278274825534113,Bajo,Remoto
+2021,Mid-level,Full-Time,financial data analyst,450000,USD,283864.5,US,100,US,Large,1.0,2.7886353285854573,Alto,Remoto
+2021,Entry-level,Full-Time,computer vision software engineer,70000,USD,70000.0,US,100,US,Medium,0.23893126646987337,-0.6069465177858363,Medio,Remoto
+2021,Mid-level,Full-Time,computer vision software engineer,81000,EUR,95746.0,DE,100,US,Small,0.3305522489773332,-0.1981706329771124,Medio,Remoto
+2021,Mid-level,Full-Time,data analyst,75000,USD,75000.0,US,0,US,Large,0.25672451250954165,-0.527560227719666,Medio,Presencial
+2021,Senior,Full-Time,data engineer,150000,USD,150000.0,US,100,US,Large,0.5236232031045657,0.6632341232728878,Alto,Remoto
+2021,Mid-level,Full-Time,bi data analyst,11000000,HUF,36259.0,HU,50,US,Large,0.11885888354498401,-1.1426610804103663,Bajo,Híbrido
+2021,Mid-level,Full-Time,data analyst,62000,USD,62000.0,US,0,US,Large,0.21046207280640414,-0.7339645818917087,Medio,Presencial
+2021,Mid-level,Full-Time,data scientist,73000,USD,73000.0,US,0,US,Large,0.2496072140936743,-0.5593147437461341,Medio,Presencial
+2021,Mid-level,Full-Time,data analyst,37456,GBP,51519.0,GB,50,GB,Large,0.17316387045805154,-0.9003741231284147,Bajo,Híbrido
+2021,Mid-level,Full-Time,research scientist,235000,CAD,187442.0,CA,100,CA,Large,0.6568661467480175,1.2577104178043972,Alto,Remoto
+2021,Senior,Full-Time,data engineer,115000,USD,115000.0,US,100,US,Small,0.39907048082688773,0.107530092809696,Medio,Remoto
+2021,Senior,Full-Time,data engineer,150000,USD,150000.0,US,100,US,Medium,0.5236232031045657,0.6632341232728878,Alto,Remoto
+2021,Entry-level,Full-Time,data engineer,2250000,INR,30428.0,IN,100,IN,Large,0.09810840001352288,-1.2352413718855342,Bajo,Remoto
+2021,Senior,Full-Time,machine learning engineer,80000,EUR,94564.0,DE,50,DE,Large,0.32634592561355563,-0.21693755194875505,Medio,Híbrido
+2021,Senior,Full-Time,director of data engineering,82500,GBP,113476.0,GB,100,GB,Medium,0.39364709943399684,0.08333315159752731,Medio,Remoto
+2021,Senior,Full-Time,lead data engineer,75000,GBP,103160.0,GB,100,GB,Small,0.35693607420495327,-0.08045664206699515,Medio,Remoto
+2021,Entry-level,Part-Time,ai scientist,12000,USD,12000.0,PK,100,US,Medium,0.03252961240972152,-1.5278274825534113,Bajo,Remoto
+2021,Mid-level,Full-Time,data engineer,38400,EUR,45391.0,NL,100,NL,Large,0.15135646811183412,-0.997669960233513,Bajo,Remoto
+2021,Entry-level,Full-Time,machine learning scientist,225000,USD,225000.0,US,100,US,Large,0.7905218936995896,1.8540284742654416,Alto,Remoto
+2021,Mid-level,Full-Time,data scientist,50000,USD,50000.0,NG,100,NG,Large,0.16775828231120032,-0.9244916780505172,Bajo,Remoto
+2021,Mid-level,Full-Time,data science engineer,34000,EUR,40189.0,GR,100,GR,Medium,0.13284437493216325,-1.0802634564183566,Bajo,Remoto
+2021,Entry-level,Full-Time,data analyst,90000,USD,90000.0,US,100,US,Small,0.3101042506285464,-0.28940135752115526,Medio,Remoto
+2021,Mid-level,Full-Time,data engineer,200000,USD,200000.0,US,100,US,Large,0.7015556635012483,1.4570970239345902,Alto,Remoto
+2021,Mid-level,Full-Time,big data engineer,60000,USD,60000.0,ES,50,RO,Medium,0.20334477439053683,-0.7657190979181767,Medio,Híbrido
+2021,Senior,Full-Time,principal data engineer,200000,USD,200000.0,US,100,US,Medium,0.7015556635012483,1.4570970239345902,Alto,Remoto
+2021,Entry-level,Full-Time,data analyst,50000,USD,50000.0,US,100,US,Medium,0.16775828231120032,-0.9244916780505172,Bajo,Remoto
+2021,Entry-level,Full-Time,applied data scientist,80000,GBP,110037.0,GB,0,GB,Large,0.381408904807913,0.028731261290015412,Medio,Presencial
+2021,Entry-level,Part-Time,data analyst,8760,EUR,10354.0,ES,50,ES,Medium,0.026672075813462724,-1.5539614492431943,Bajo,Híbrido
+2021,Mid-level,Full-Time,principal data scientist,151000,USD,151000.0,US,100,US,Large,0.5271818523124993,0.6791113812861218,Alto,Remoto
+2021,Senior,Full-Time,machine learning scientist,120000,USD,120000.0,US,50,US,Small,0.416863726866556,0.18691638287586626,Medio,Híbrido
+2021,Mid-level,Full-Time,data scientist,700000,INR,9466.0,IN,0,IN,Small,0.023511995316817642,-1.5680604543589463,Bajo,Presencial
+2021,Entry-level,Full-Time,machine learning engineer,20000,USD,20000.0,IN,100,IN,Small,0.06099880607319074,-1.4008094184475388,Bajo,Remoto
+2021,Senior,Full-Time,lead data scientist,3000000,INR,40570.0,IN,50,IN,Large,0.13420022028038597,-1.0742142211153143,Bajo,Híbrido
+2021,Entry-level,Full-Time,machine learning developer,100000,USD,100000.0,IQ,50,IQ,Small,0.34569074270788297,-0.13062877738881476,Medio,Híbrido
+2021,Entry-level,Full-Time,data scientist,42000,EUR,49646.0,FR,50,FR,Medium,0.1664985204915918,-0.9301122273872021,Bajo,Híbrido
+2021,Mid-level,Full-Time,applied machine learning scientist,38400,USD,38400.0,VN,100,US,Medium,0.12647795149916993,-1.1086678710040323,Bajo,Remoto
+2021,Senior,Full-Time,computer vision engineer,24000,USD,24000.0,BR,100,BR,Medium,0.07523340290492536,-1.3373003863946025,Bajo,Remoto
+2021,Entry-level,Full-Time,data scientist,100000,USD,100000.0,US,0,US,Small,0.34569074270788297,-0.13062877738881476,Medio,Presencial
+2021,Mid-level,Full-Time,data analyst,90000,USD,90000.0,US,100,US,Medium,0.3101042506285464,-0.28940135752115526,Medio,Remoto
+2021,Mid-level,Full-Time,ml engineer,7000000,JPY,63711.0,JP,50,JP,Small,0.21655092160117861,-0.7067985934310652,Medio,Híbrido
+2021,Mid-level,Full-Time,ml engineer,8500000,JPY,77364.0,JP,50,JP,Small,0.2651371592370968,-0.4900263897763807,Medio,Híbrido
+2021,Senior,Full-Time,principal data scientist,220000,USD,220000.0,US,0,US,Large,0.7727286476599213,1.7746421841992712,Alto,Presencial
+2021,Entry-level,Full-Time,data scientist,80000,USD,80000.0,US,100,US,Medium,0.2745177585492099,-0.4481739376534958,Medio,Remoto
+2021,Mid-level,Full-Time,data analyst,135000,USD,135000.0,US,100,US,Large,0.4702434649855608,0.425075253074377,Medio,Remoto
+2021,Senior,Full-Time,data science manager,240000,USD,240000.0,US,0,US,Large,0.8439016318185943,2.0921873444639525,Alto,Presencial
+2021,Senior,Full-Time,data engineering manager,150000,USD,150000.0,US,0,US,Large,0.5236232031045657,0.6632341232728878,Alto,Presencial
+2021,Mid-level,Full-Time,data scientist,82500,USD,82500.0,US,100,US,Small,0.283414381569044,-0.40848079262041065,Medio,Remoto
+2021,Mid-level,Full-Time,data engineer,100000,USD,100000.0,US,100,US,Large,0.34569074270788297,-0.13062877738881476,Medio,Remoto
+2021,Senior,Full-Time,machine learning engineer,70000,EUR,82744.0,BE,50,BE,Medium,0.2842826919757798,-0.4046067416651815,Medio,Híbrido
+2021,Mid-level,Full-Time,research scientist,53000,EUR,62649.0,FR,50,FR,Medium,0.2127716361423531,-0.7236602414411197,Medio,Híbrido
+2021,Mid-level,Full-Time,data engineer,90000,USD,90000.0,US,100,US,Large,0.3101042506285464,-0.28940135752115526,Medio,Remoto
+2021,Senior,Full-Time,data engineering manager,153000,USD,153000.0,US,100,US,Large,0.5342991507283665,0.7108658973125899,Alto,Remoto
+2021,Senior,Full-Time,cloud data engineer,160000,USD,160000.0,BR,100,US,Small,0.5592096951839022,0.8220067034052283,Alto,Remoto
+2021,Senior,Full-Time,director of data science,168000,USD,168000.0,JP,0,JP,Small,0.5876788888473714,0.9490247675111007,Alto,Presencial
+2021,Mid-level,Full-Time,data scientist,150000,USD,150000.0,US,100,US,Medium,0.5236232031045657,0.6632341232728878,Alto,Remoto
+2021,Mid-level,Full-Time,data scientist,95000,CAD,75774.0,CA,100,CA,Large,0.2594789069964823,-0.5152712300174228,Medio,Remoto
+2021,Entry-level,Full-Time,data scientist,13400,USD,13400.0,UA,100,UA,Large,0.03751172130082863,-1.5055993213348835,Bajo,Remoto
+2021,Senior,Full-Time,data science manager,144000,USD,144000.0,US,100,US,Large,0.5022713078569637,0.5679705751934835,Alto,Remoto
+2021,Senior,Full-Time,data science engineer,159500,CAD,127221.0,CA,50,CA,Large,0.4425607327970449,0.30156606298942934,Medio,Híbrido
+2021,Mid-level,Full-Time,data scientist,160000,SGD,119059.0,SG,100,IL,Medium,0.41351503796189043,0.171975883085413,Medio,Remoto
+2021,Mid-level,Full-Time,applied machine learning scientist,423000,USD,283864.5,US,50,US,Large,1.0,2.7886353285854573,Alto,Híbrido
+2021,Senior,Full-Time,data analytics manager,120000,USD,120000.0,US,100,US,Medium,0.416863726866556,0.18691638287586626,Medio,Remoto
+2021,Entry-level,Full-Time,machine learning engineer,125000,USD,125000.0,US,100,US,Small,0.43465697290622424,0.2663026729420365,Medio,Remoto
+2021,Executive,Full-Time,head of data,230000,USD,230000.0,RU,50,RU,Large,0.8083151397392578,1.9334147643316117,Alto,Híbrido
+2021,Executive,Full-Time,head of data science,85000,USD,85000.0,RU,0,RU,Medium,0.29231100458887815,-0.3687876475873255,Medio,Presencial
+2021,Mid-level,Full-Time,data engineer,24000,EUR,28369.0,MT,50,MT,Large,0.09078114129438748,-1.267932646134783,Bajo,Híbrido
+2021,Entry-level,Full-Time,data science consultant,54000,EUR,63831.0,DE,50,DE,Large,0.21697795950613066,-0.7048933224694771,Medio,Híbrido
+2021,Executive,Full-Time,director of data science,110000,EUR,130026.0,DE,50,DE,Medium,0.4525427438252988,0.3461017717165508,Medio,Híbrido
+2021,Senior,Full-Time,data specialist,165000,USD,165000.0,US,100,US,Large,0.5770029412235704,0.9013929934713986,Alto,Remoto
+2021,Entry-level,Full-Time,data engineer,80000,USD,80000.0,US,100,US,Large,0.2745177585492099,-0.4481739376534958,Medio,Remoto
+2021,Executive,Full-Time,director of data science,250000,USD,250000.0,US,0,US,Large,0.8794881238979309,2.250959924596293,Alto,Presencial
+2021,Entry-level,Full-Time,bi data analyst,55000,USD,55000.0,US,50,US,Small,0.18555152835086858,-0.845105387984347,Bajo,Híbrido
+2021,Mid-level,Full-Time,data architect,150000,USD,150000.0,US,100,US,Large,0.5236232031045657,0.6632341232728878,Alto,Remoto
+2021,Mid-level,Full-Time,data architect,170000,USD,170000.0,US,100,US,Large,0.5947961872632387,0.9807792835375688,Alto,Remoto
+2021,Mid-level,Full-Time,data engineer,60000,GBP,82528.0,GB,100,GB,Large,0.2835140237468662,-0.40803622939604006,Medio,Remoto
+2021,Entry-level,Full-Time,data analyst,60000,USD,60000.0,US,100,US,Small,0.20334477439053683,-0.7657190979181767,Medio,Remoto
+2021,Senior,Full-Time,principal data scientist,235000,USD,235000.0,US,100,US,Large,0.8261083857789261,2.012801054397782,Alto,Remoto
+2021,Senior,Full-Time,research scientist,51400,EUR,60757.0,PT,50,PT,Large,0.2060386718409426,-0.7537000136021585,Medio,Híbrido
+2021,Senior,Full-Time,data engineering manager,174000,USD,174000.0,US,100,US,Large,0.6090307840949732,1.044288315590505,Alto,Remoto
+2021,Mid-level,Full-Time,data scientist,58000,MXN,2859.0,MX,0,MX,Small,0.0,-1.6729614980523837,Bajo,Presencial
+2021,Mid-level,Full-Time,data scientist,30400000,CLP,40038.0,CL,100,CL,Large,0.13230701890176527,-1.082660922378355,Bajo,Remoto
+2021,Entry-level,Full-Time,machine learning engineer,81000,USD,81000.0,US,50,US,Small,0.27807640775714354,-0.4322966796402617,Medio,Híbrido
+2021,Mid-level,Full-Time,data scientist,420000,INR,5679.0,IN,100,US,Small,0.010035390766372899,-1.6281876304550635,Bajo,Remoto
+2021,Mid-level,Full-Time,big data engineer,1672000,INR,22611.0,IN,0,IN,Large,0.07029043915510551,-1.3593538977749846,Bajo,Presencial
+2021,Mid-level,Full-Time,data scientist,76760,EUR,90734.0,DE,50,DE,Large,0.3127162991471697,-0.27774745013944147,Medio,Híbrido
+2021,Mid-level,Full-Time,data engineer,22000,EUR,26005.0,RO,0,US,Large,0.08236849456683233,-1.3054664840780683,Bajo,Presencial
+2021,Senior,Full-Time,finance data analyst,45000,GBP,61896.0,GB,50,GB,Large,0.21009197328877904,-0.735615816725085,Medio,Híbrido
+2021,Mid-level,Freelance,machine learning scientist,12000,USD,12000.0,PK,50,PK,Medium,0.03252961240972152,-1.5278274825534113,Bajo,Híbrido
+2021,Mid-level,Full-Time,data engineer,4000,USD,4000.0,IR,100,IR,Medium,0.0040604187462522975,-1.6548455466592835,Bajo,Remoto
+2021,Senior,Full-Time,data analytics engineer,50000,USD,50000.0,VN,100,GB,Medium,0.16775828231120032,-0.9244916780505172,Bajo,Remoto
+2021,Executive,Full-Time,data science consultant,59000,EUR,69741.0,FR,100,ES,Small,0.23800957632501854,-0.6110587276112639,Medio,Remoto
+2021,Senior,Full-Time,data engineer,65000,EUR,76833.0,RO,50,GB,Small,0.263247516507684,-0.498457213781408,Medio,Híbrido
+2021,Mid-level,Full-Time,machine learning engineer,74000,USD,74000.0,JP,50,JP,Small,0.25316586330160795,-0.5434374857329001,Medio,Híbrido
+2021,Senior,Full-Time,data science manager,152000,USD,152000.0,US,100,FR,Large,0.530740501520433,0.6949886392993558,Alto,Remoto
+2021,Entry-level,Full-Time,machine learning engineer,21844,USD,21844.0,CO,50,CO,Medium,0.0675609552126204,-1.3715317546711352,Bajo,Híbrido
+2021,Mid-level,Full-Time,big data engineer,18000,USD,18000.0,MD,0,MD,Small,0.053881507657323434,-1.4325639344740069,Bajo,Presencial
+2021,Senior,Full-Time,data science manager,174000,USD,174000.0,US,100,US,Large,0.6090307840949732,1.044288315590505,Alto,Remoto
+2021,Senior,Full-Time,research scientist,120500,CAD,96113.0,CA,50,CA,Large,0.33185827323664485,-0.1923436792862555,Medio,Híbrido
+2021,Mid-level,Full-Time,data scientist,147000,USD,147000.0,US,50,US,Large,0.5129472554807647,0.6156023492331856,Alto,Híbrido
+2021,Entry-level,Full-Time,bi data analyst,9272,USD,9272.0,KE,100,KE,Small,0.02282161737047851,-1.5711406424135137,Bajo,Remoto
+2021,Senior,Full-Time,machine learning engineer,1799997,INR,24342.0,IN,100,IN,Large,0.07645046093403866,-1.3318703641540766,Bajo,Remoto
+2021,Senior,Full-Time,data science manager,4000000,INR,54094.0,IN,50,US,Large,0.18232739216848068,-0.859490183744337,Bajo,Híbrido
+2021,Entry-level,Full-Time,data science consultant,90000,USD,90000.0,US,100,US,Small,0.3101042506285464,-0.28940135752115526,Medio,Remoto
+2021,Mid-level,Full-Time,data scientist,52000,EUR,61467.0,DE,50,AT,Medium,0.2085653127785755,-0.7424271604127625,Medio,Híbrido
+2021,Senior,Full-Time,machine learning infrastructure engineer,195000,USD,195000.0,US,100,US,Medium,0.68376241746158,1.37771073386842,Alto,Remoto
+2021,Mid-level,Full-Time,data scientist,32000,EUR,37825.0,ES,100,ES,Large,0.12443172820460811,-1.1177972943616419,Bajo,Remoto
+2021,Senior,Full-Time,research scientist,50000,USD,50000.0,FR,100,US,Small,0.16775828231120032,-0.9244916780505172,Bajo,Remoto
+2021,Mid-level,Full-Time,data scientist,160000,USD,160000.0,US,100,US,Large,0.5592096951839022,0.8220067034052283,Alto,Remoto
+2021,Mid-level,Full-Time,data scientist,69600,BRL,12901.0,BR,0,BR,Small,0.035735955346069735,-1.5135220730834873,Bajo,Presencial
+2021,Senior,Full-Time,machine learning engineer,200000,USD,200000.0,US,100,US,Large,0.7015556635012483,1.4570970239345902,Alto,Remoto
+2021,Senior,Full-Time,data engineer,165000,USD,165000.0,US,0,US,Medium,0.5770029412235704,0.9013929934713986,Alto,Presencial
+2021,Mid-level,Freelance,data engineer,20000,USD,20000.0,IT,0,US,Large,0.06099880607319074,-1.4008094184475388,Bajo,Presencial
+2021,Senior,Full-Time,data analytics manager,120000,USD,120000.0,US,0,US,Large,0.416863726866556,0.18691638287586626,Medio,Presencial
+2021,Mid-level,Full-Time,machine learning engineer,21000,EUR,24823.0,SI,50,SI,Large,0.07816217120305476,-1.324233403049711,Bajo,Híbrido
+2021,Mid-level,Full-Time,research scientist,48000,EUR,56738.0,FR,50,FR,Small,0.19173646067425726,-0.8175107135573463,Bajo,Híbrido
+2021,Mid-level,Full-Time,data engineer,48000,GBP,66022.0,HK,50,GB,Small,0.22477495992071328,-0.6701062501624813,Medio,Híbrido
+2021,Entry-level,Full-Time,big data engineer,435000,INR,5882.0,IN,0,CH,Large,0.010757796555583432,-1.6249645470783771,Bajo,Presencial
+2021,Entry-level,Full-Time,machine learning engineer,21000,EUR,24823.0,DE,50,DE,Medium,0.07816217120305476,-1.324233403049711,Bajo,Híbrido
+2021,Senior,Full-Time,principal data engineer,185000,USD,185000.0,US,100,US,Large,0.6481759253822434,1.2189381537360795,Alto,Remoto
+2021,Entry-level,Part-Time,computer vision engineer,180000,DKK,28609.0,DK,50,DK,Small,0.09163521710429157,-1.2641221042116069,Bajo,Híbrido
+2021,Mid-level,Full-Time,machine learning engineer,75000,EUR,88654.0,BE,100,BE,Medium,0.3053143087946677,-0.3107721468069683,Medio,Remoto
+2021,Senior,Full-Time,data analytics manager,140000,USD,140000.0,US,100,US,Large,0.48803671102522905,0.5044615431405473,Alto,Remoto
+2021,Mid-level,Full-Time,machine learning engineer,180000,PLN,46597.0,PL,100,PL,Large,0.1556481990566021,-0.9785219870695527,Bajo,Remoto
+2021,Mid-level,Full-Time,data scientist,85000,GBP,116914.0,GB,50,GB,Large,0.40588173541087275,0.13791916464702597,Medio,Híbrido
+2021,Mid-level,Full-Time,data scientist,2500000,INR,33808.0,IN,0,IN,Medium,0.11013663433633862,-1.181576239800803,Bajo,Presencial
+2021,Mid-level,Full-Time,data scientist,40900,GBP,56256.0,GB,50,GB,Large,0.19002119175603324,-0.825163551919725,Bajo,Híbrido
+2021,Senior,Full-Time,machine learning scientist,225000,USD,225000.0,US,100,CA,Large,0.7905218936995896,1.8540284742654416,Alto,Remoto
+2021,Executive,Contract,principal data scientist,416000,USD,283864.5,US,100,US,Small,1.0,2.7886353285854573,Alto,Remoto
+2021,Senior,Full-Time,data scientist,110000,CAD,87738.0,CA,100,CA,Small,0.3020545861202005,-0.3253157151470907,Medio,Remoto
+2021,Mid-level,Full-Time,data scientist,75000,EUR,88654.0,DE,50,DE,Large,0.3053143087946677,-0.3107721468069683,Medio,Híbrido
+2021,Senior,Full-Time,data scientist,135000,USD,135000.0,US,0,US,Large,0.4702434649855608,0.425075253074377,Medio,Presencial
+2021,Senior,Full-Time,data analyst,90000,CAD,71786.0,CA,100,CA,Medium,0.24528701395524288,-0.5785897349742003,Medio,Remoto
+2021,Entry-level,Full-Time,big data engineer,1200000,INR,16228.0,IN,100,IN,Large,0.047575581260865,-1.4606984356734576,Bajo,Remoto
+2021,Senior,Full-Time,ml engineer,256000,USD,256000.0,US,100,US,Small,0.9008400191455328,2.346223472675697,Alto,Remoto
+2021,Senior,Full-Time,director of data engineering,200000,USD,200000.0,US,100,US,Large,0.7015556635012483,1.4570970239345902,Alto,Remoto
+2021,Senior,Full-Time,data analyst,200000,USD,200000.0,US,100,US,Large,0.7015556635012483,1.4570970239345902,Alto,Remoto
+2021,Mid-level,Full-Time,data architect,180000,USD,180000.0,US,100,US,Large,0.6303826793425752,1.1395518636699093,Alto,Remoto
+2021,Mid-level,Full-Time,head of data science,110000,USD,110000.0,US,0,US,Small,0.3812772347872195,0.028143802743525754,Medio,Presencial
+2021,Mid-level,Full-Time,research scientist,80000,CAD,63810.0,CA,100,CA,Medium,0.21690322787276406,-0.705226744887755,Medio,Remoto
+2021,Mid-level,Full-Time,data scientist,39600,EUR,46809.0,ES,100,ES,Medium,0.156402632688684,-0.9751560083707471,Bajo,Remoto
+2021,Entry-level,Full-Time,data scientist,4000,USD,4000.0,VN,0,VN,Medium,0.0040604187462522975,-1.6548455466592835,Bajo,Presencial
+2021,Entry-level,Full-Time,data engineer,1600000,INR,21637.0,IN,50,IN,Medium,0.06682431482657814,-1.3748183470798747,Bajo,Híbrido
+2021,Senior,Full-Time,data scientist,130000,CAD,103691.0,CA,100,CA,Large,0.35882571693436605,-0.07202581806196787,Medio,Remoto
+2021,Mid-level,Full-Time,data analyst,80000,USD,80000.0,US,100,US,Large,0.2745177585492099,-0.4481739376534958,Medio,Remoto
+2021,Mid-level,Full-Time,data engineer,110000,USD,110000.0,US,100,US,Large,0.3812772347872195,0.028143802743525754,Medio,Remoto
+2021,Senior,Full-Time,data scientist,165000,USD,165000.0,US,100,US,Large,0.5770029412235704,0.9013929934713986,Alto,Remoto
+2021,Entry-level,Full-Time,ai scientist,1335000,INR,18053.0,IN,100,AS,Small,0.05407011606534392,-1.4317224397993056,Bajo,Remoto
+2021,Mid-level,Full-Time,data engineer,52500,GBP,72212.0,GB,50,GB,Large,0.2468029985178226,-0.5718260230605625,Medio,Híbrido
+2021,Entry-level,Full-Time,data scientist,31000,EUR,36643.0,FR,50,FR,Large,0.12022540484083054,-1.1365642133332845,Bajo,Híbrido
+2021,Mid-level,Full-Time,data engineer,108000,TRY,12103.0,TR,0,TR,Medium,0.03289615327813868,-1.5261921249780481,Bajo,Presencial
+2021,Senior,Full-Time,data engineer,70000,GBP,96282.0,GB,50,GB,Large,0.3324596849527856,-0.18966042268201894,Medio,Híbrido
+2021,Senior,Full-Time,principal data analyst,170000,USD,170000.0,US,100,US,Medium,0.5947961872632387,0.9807792835375688,Alto,Remoto
+2021,Mid-level,Full-Time,data scientist,115000,USD,115000.0,US,50,US,Large,0.39907048082688773,0.107530092809696,Medio,Híbrido
+2021,Entry-level,Full-Time,data scientist,90000,USD,90000.0,US,100,US,Small,0.3101042506285464,-0.28940135752115526,Medio,Remoto
+2021,Executive,Full-Time,principal data engineer,600000,USD,283864.5,US,100,US,Large,1.0,2.7886353285854573,Alto,Remoto
+2021,Entry-level,Full-Time,data scientist,2100000,INR,28399.0,IN,100,IN,Medium,0.09088790077062549,-1.267456328394386,Bajo,Remoto
+2021,Mid-level,Full-Time,data analyst,93000,USD,93000.0,US,100,US,Large,0.3207801982523474,-0.2417695834814531,Medio,Remoto
+2021,Senior,Full-Time,big data architect,125000,CAD,99703.0,CA,50,CA,Medium,0.34463382389312663,-0.13534432301874527,Medio,Híbrido
+2021,Senior,Full-Time,principal data scientist,147000,EUR,173762.0,DE,100,DE,Medium,0.608183825583485,1.0405095281833552,Alto,Remoto
+2021,Senior,Full-Time,machine learning engineer,185000,USD,185000.0,US,50,US,Large,0.6481759253822434,1.2189381537360795,Alto,Híbrido
+2021,Executive,Full-Time,director of data science,120000,EUR,141846.0,DE,0,DE,Large,0.4946059774630746,0.5337709614329773,Alto,Presencial
+2021,Mid-level,Full-Time,data scientist,130000,USD,130000.0,US,50,US,Large,0.45245021894589255,0.3456889630082068,Medio,Híbrido
+2021,Senior,Full-Time,data analyst,54000,EUR,63831.0,DE,50,DE,Large,0.21697795950613066,-0.7048933224694771,Medio,Híbrido
+2021,Mid-level,Full-Time,data scientist,1250000,INR,16904.0,IN,100,IN,Small,0.04998122812542815,-1.4499654092565113,Bajo,Remoto
+2021,Senior,Full-Time,machine learning engineer,4900000,INR,66265.0,IN,0,IN,Large,0.22563971167824118,-0.6662480764652654,Medio,Presencial
+2021,Mid-level,Full-Time,data scientist,21600,EUR,25532.0,RS,100,DE,Small,0.08068525349147972,-1.312976427118328,Bajo,Remoto
+2021,Senior,Full-Time,lead data engineer,160000,USD,160000.0,PR,50,US,Small,0.5592096951839022,0.8220067034052283,Alto,Híbrido
+2021,Mid-level,Full-Time,data engineer,93150,USD,93150.0,US,0,US,Medium,0.3213139956335374,-0.23938799477946798,Medio,Presencial
+2021,Mid-level,Full-Time,data engineer,111775,USD,111775.0,US,0,US,Medium,0.3875938371313017,0.05632593571701619,Medio,Presencial
+2021,Mid-level,Full-Time,data engineer,250000,TRY,28016.0,TR,100,TR,Medium,0.0895249381239869,-1.2735373182134546,Bajo,Remoto
+2021,Entry-level,Full-Time,data engineer,55000,EUR,65013.0,DE,50,DE,Medium,0.22118428286990824,-0.6861264034978345,Medio,Híbrido
+2021,Entry-level,Full-Time,data engineer,72500,USD,72500.0,US,100,US,Large,0.24782788948970752,-0.5672533727527511,Medio,Remoto
+2021,Senior,Full-Time,computer vision engineer,102000,BRL,18907.0,BR,0,BR,Medium,0.05710920248891926,-1.4181632614560036,Bajo,Presencial
+2021,Entry-level,Full-Time,data science consultant,65000,EUR,76833.0,DE,0,DE,Large,0.263247516507684,-0.498457213781408,Medio,Presencial
+2021,Entry-level,Full-Time,machine learning engineer,85000,USD,85000.0,NL,100,DE,Small,0.29231100458887815,-0.3687876475873255,Medio,Remoto
+2021,Senior,Full-Time,data scientist,65720,EUR,77684.0,FR,50,FR,Medium,0.26627592698363556,-0.4849456672121458,Medio,Híbrido
+2021,Entry-level,Full-Time,data scientist,100000,USD,100000.0,US,100,US,Medium,0.34569074270788297,-0.13062877738881476,Medio,Remoto
+2021,Entry-level,Full-Time,data scientist,58000,USD,58000.0,US,50,US,Large,0.19622747597466952,-0.7974736139446449,Bajo,Híbrido
+2021,Senior,Full-Time,ai scientist,55000,USD,55000.0,ES,100,ES,Large,0.18555152835086858,-0.845105387984347,Bajo,Remoto
+2021,Senior,Full-Time,data scientist,180000,TRY,20171.0,TR,50,TR,Large,0.0616073350877474,-1.3980944073272759,Bajo,Híbrido
+2021,Entry-level,Full-Time,business data analyst,50000,EUR,59102.0,LU,100,LU,Large,0.2001491074018124,-0.7799768756140609,Bajo,Remoto
+2021,Mid-level,Full-Time,data engineer,112000,USD,112000.0,US,100,US,Large,0.38839453320308676,0.05989831876999385,Medio,Remoto
+2021,Entry-level,Full-Time,research scientist,100000,USD,100000.0,JE,0,CN,Large,0.34569074270788297,-0.13062877738881476,Medio,Presencial
+2021,Mid-level,Part-Time,data engineer,59000,EUR,69741.0,NL,100,NL,Large,0.23800957632501854,-0.6110587276112639,Medio,Remoto
+2021,Senior,Contract,staff data scientist,105000,USD,105000.0,US,100,US,Medium,0.3634839887475512,-0.0512424873226445,Medio,Remoto
+2021,Mid-level,Full-Time,research scientist,69999,USD,69999.0,CZ,50,CZ,Large,0.23892770782066544,-0.6069623950438495,Medio,Híbrido
+2021,Senior,Full-Time,data science manager,7000000,INR,94665.0,IN,50,IN,Large,0.3267053491835569,-0.2153339488894184,Medio,Híbrido
+2021,Senior,Full-Time,head of data,87000,EUR,102839.0,SI,100,SI,Large,0.3557937478092066,-0.08555324188924328,Medio,Remoto
+2021,Mid-level,Full-Time,data scientist,109000,USD,109000.0,US,50,US,Large,0.37771858557928584,0.012266544730291703,Medio,Híbrido
+2021,Mid-level,Full-Time,machine learning engineer,43200,EUR,51064.0,IT,50,IT,Large,0.17154468506844173,-0.9075982755244363,Bajo,Híbrido
+2022,Senior,Full-Time,data engineer,135000,USD,135000.0,US,100,US,Medium,0.4702434649855608,0.425075253074377,Medio,Remoto
+2022,Senior,Full-Time,data analyst,155000,USD,155000.0,US,100,US,Medium,0.5414164491442339,0.742620413339058,Alto,Remoto
+2022,Senior,Full-Time,data analyst,120600,USD,120600.0,US,100,US,Medium,0.4189989163913162,0.19644273768380668,Medio,Remoto
+2022,Mid-level,Full-Time,data scientist,130000,USD,130000.0,US,0,US,Medium,0.45245021894589255,0.3456889630082068,Medio,Presencial
+2022,Mid-level,Full-Time,data scientist,90000,USD,90000.0,US,0,US,Medium,0.3101042506285464,-0.28940135752115526,Medio,Presencial
+2022,Mid-level,Full-Time,data engineer,170000,USD,170000.0,US,100,US,Medium,0.5947961872632387,0.9807792835375688,Alto,Remoto
+2022,Mid-level,Full-Time,data engineer,150000,USD,150000.0,US,100,US,Medium,0.5236232031045657,0.6632341232728878,Alto,Remoto
+2022,Senior,Full-Time,data analyst,102100,USD,102100.0,US,100,US,Medium,0.3531639060445436,-0.09728653556102325,Medio,Remoto
+2022,Senior,Full-Time,data analyst,84900,USD,84900.0,US,100,US,Medium,0.2919551396680848,-0.3703753733886489,Medio,Remoto
+2022,Senior,Full-Time,data scientist,136620,USD,136620.0,US,100,US,Medium,0.4760084767024133,0.4507964110558162,Medio,Remoto
+2022,Senior,Full-Time,data scientist,99360,USD,99360.0,US,100,US,Medium,0.3434132072148054,-0.14079022251728454,Medio,Remoto
+2022,Senior,Full-Time,data scientist,90000,GBP,117789.0,GB,0,GB,Medium,0.4089955534678147,0.15181176540860578,Medio,Presencial
+2022,Senior,Full-Time,data scientist,80000,GBP,104702.0,GB,0,GB,Medium,0.36242351128358696,-0.05597391021058824,Medio,Presencial
+2022,Senior,Full-Time,data scientist,146000,USD,146000.0,US,100,US,Medium,0.509388606272831,0.5997250912199515,Alto,Remoto
+2022,Senior,Full-Time,data scientist,123000,USD,123000.0,US,100,US,Medium,0.42753967449035696,0.2345481569155684,Medio,Remoto
+2022,Entry-level,Full-Time,data engineer,40000,GBP,52351.0,GB,100,GB,Medium,0.17612466659905232,-0.887164244461404,Bajo,Remoto
+2022,Senior,Full-Time,data analyst,99000,USD,99000.0,US,0,US,Medium,0.3421320934999493,-0.1465060354020488,Medio,Presencial
+2022,Senior,Full-Time,data analyst,116000,USD,116000.0,US,0,US,Medium,0.40262913003482137,0.12340735082293006,Medio,Presencial
+2022,Mid-level,Full-Time,data analyst,106260,USD,106260.0,US,0,US,Medium,0.3679678867495476,-0.031237142225969596,Medio,Presencial
+2022,Mid-level,Full-Time,data analyst,126500,USD,126500.0,US,0,US,Medium,0.4399949467181247,0.29011855996188757,Medio,Presencial
+2022,Executive,Full-Time,data engineer,242000,USD,242000.0,US,100,US,Medium,0.8510189302344616,2.1239418604904206,Alto,Remoto
+2022,Executive,Full-Time,data engineer,200000,USD,200000.0,US,100,US,Medium,0.7015556635012483,1.4570970239345902,Alto,Remoto
+2022,Mid-level,Full-Time,data scientist,50000,GBP,65438.0,GB,0,GB,Medium,0.22269670878328005,-0.67937856884221,Medio,Presencial
+2022,Mid-level,Full-Time,data scientist,30000,GBP,39263.0,GB,0,GB,Medium,0.12954906576561667,-1.0949657973386113,Bajo,Presencial
+2022,Mid-level,Full-Time,data engineer,60000,GBP,78526.0,GB,0,GB,Medium,0.26927230961671567,-0.47157701596500273,Medio,Presencial
+2022,Mid-level,Full-Time,data engineer,40000,GBP,52351.0,GB,0,GB,Medium,0.17612466659905232,-0.887164244461404,Bajo,Presencial
+2022,Senior,Full-Time,data scientist,165220,USD,165220.0,US,100,US,Medium,0.5777858440493159,0.90488599023431,Alto,Remoto
+2022,Entry-level,Full-Time,data engineer,35000,GBP,45807.0,GB,100,GB,Medium,0.1528368661823345,-0.9910650209000076,Bajo,Remoto
+2022,Senior,Full-Time,data scientist,120160,USD,120160.0,US,100,US,Medium,0.41743311073982536,0.1894567441579837,Medio,Remoto
+2022,Senior,Full-Time,data analyst,90320,USD,90320.0,US,100,US,Medium,0.31124301837508517,-0.28432063495692034,Medio,Remoto
+2022,Senior,Full-Time,data engineer,181940,USD,181940.0,US,0,US,Medium,0.6372864588059665,1.1703537442155834,Alto,Presencial
+2022,Senior,Full-Time,data engineer,132320,USD,132320.0,US,0,US,Medium,0.4607062851082986,0.38252420159890976,Medio,Presencial
+2022,Senior,Full-Time,data engineer,220110,USD,220110.0,US,0,US,Medium,0.773120099072794,1.7763886825807271,Alto,Presencial
+2022,Senior,Full-Time,data engineer,160080,USD,160080.0,US,0,US,Medium,0.5594943871205369,0.823276884046287,Alto,Presencial
+2022,Senior,Full-Time,data scientist,180000,USD,180000.0,US,0,US,Large,0.6303826793425752,1.1395518636699093,Alto,Presencial
+2022,Senior,Full-Time,data scientist,120000,USD,120000.0,US,0,US,Large,0.416863726866556,0.18691638287586626,Medio,Presencial
+2022,Senior,Full-Time,data analyst,124190,USD,124190.0,US,100,US,Medium,0.431774467047798,0.25344209395131695,Medio,Remoto
+2022,Executive,Full-Time,data analyst,130000,USD,130000.0,US,100,US,Medium,0.45245021894589255,0.3456889630082068,Medio,Remoto
+2022,Executive,Full-Time,data analyst,110000,USD,110000.0,US,100,US,Medium,0.3812772347872195,0.028143802743525754,Medio,Remoto
+2022,Senior,Full-Time,data analyst,170000,USD,170000.0,US,100,US,Medium,0.5947961872632387,0.9807792835375688,Alto,Remoto
+2022,Mid-level,Full-Time,data analyst,115500,USD,115500.0,US,100,US,Medium,0.4008498054308546,0.11546872181631303,Medio,Remoto
+2022,Senior,Full-Time,data analyst,112900,USD,112900.0,US,100,US,Medium,0.3915973174902271,0.0741878509819045,Medio,Remoto
+2022,Senior,Full-Time,data engineer,165400,USD,165400.0,US,100,US,Medium,0.5784264009067439,0.9077438966766921,Alto,Remoto
+2022,Senior,Full-Time,data engineer,132320,USD,132320.0,US,100,US,Medium,0.4607062851082986,0.38252420159890976,Medio,Remoto
+2022,Mid-level,Full-Time,data analyst,167000,USD,167000.0,US,100,US,Medium,0.5841202396394377,0.9331475094978666,Alto,Remoto
+2022,Senior,Full-Time,data engineer,243900,USD,243900.0,US,100,US,Medium,0.8577803637295356,2.154108650715565,Alto,Remoto
+2022,Senior,Full-Time,data analyst,136600,USD,136600.0,US,100,US,Medium,0.47593730371825466,0.4504788658955515,Medio,Remoto
+2022,Senior,Full-Time,data analyst,109280,USD,109280.0,US,100,US,Medium,0.37871500735750724,0.016712176973997236,Medio,Remoto
+2022,Senior,Full-Time,data engineer,128875,USD,128875.0,US,100,US,Medium,0.44844673858696715,0.32782704774331844,Medio,Remoto
+2022,Senior,Full-Time,data engineer,93700,USD,93700.0,US,100,US,Medium,0.3232712526979009,-0.23065550287218928,Medio,Remoto
+2022,Executive,Full-Time,head of data science,224000,USD,224000.0,US,100,US,Medium,0.7869632444916559,1.8381512162522076,Alto,Remoto
+2022,Executive,Full-Time,head of data science,167875,USD,167875.0,US,100,US,Medium,0.5872340576963797,0.9470401102594465,Alto,Remoto
+2022,Executive,Full-Time,analytics engineer,175000,USD,175000.0,US,100,US,Medium,0.6125894333029069,1.060165573603739,Alto,Remoto
+2022,Senior,Full-Time,data engineer,156600,USD,156600.0,US,100,US,Medium,0.5471102878769277,0.7680240261602325,Alto,Remoto
+2022,Senior,Full-Time,data engineer,108800,USD,108800.0,US,0,US,Medium,0.3770068557376991,0.009091093127644893,Medio,Presencial
+2022,Senior,Full-Time,data scientist,95550,USD,95550.0,US,0,US,Medium,0.32985475373257817,-0.2012825755477063,Medio,Presencial
+2022,Senior,Full-Time,data engineer,113000,USD,113000.0,US,0,US,Large,0.39195318241102045,0.07577557678322791,Medio,Presencial
+2022,Senior,Full-Time,data analyst,135000,USD,135000.0,US,100,US,Medium,0.4702434649855608,0.425075253074377,Medio,Remoto
+2022,Senior,Full-Time,data science manager,161342,USD,161342.0,US,100,US,Medium,0.5639854024209491,0.8433139836589884,Alto,Remoto
+2022,Senior,Full-Time,data science manager,137141,USD,137141.0,US,100,US,Medium,0.47786253293974673,0.4590684624807111,Medio,Remoto
+2022,Senior,Full-Time,data scientist,167000,USD,167000.0,US,100,US,Medium,0.5841202396394377,0.9331475094978666,Alto,Remoto
+2022,Senior,Full-Time,data engineer,60000,GBP,78526.0,GB,0,GB,Medium,0.26927230961671567,-0.47157701596500273,Medio,Presencial
+2022,Senior,Full-Time,data engineer,50000,GBP,65438.0,GB,0,GB,Medium,0.22269670878328005,-0.67937856884221,Medio,Presencial
+2022,Senior,Full-Time,data scientist,150000,USD,150000.0,US,0,US,Medium,0.5236232031045657,0.6632341232728878,Alto,Presencial
+2022,Senior,Full-Time,data scientist,211500,USD,211500.0,US,100,US,Medium,0.7424801293924853,1.639685491086782,Alto,Remoto
+2022,Senior,Full-Time,data architect,192400,USD,192400.0,CA,100,CA,Medium,0.6745099295209525,1.3364298630340115,Alto,Remoto
+2022,Senior,Full-Time,data architect,90700,USD,90700.0,CA,100,CA,Medium,0.3125953050741,-0.2782872769118914,Medio,Remoto
+2022,Senior,Full-Time,data analyst,130000,USD,130000.0,CA,100,CA,Medium,0.45245021894589255,0.3456889630082068,Medio,Remoto
+2022,Senior,Full-Time,data analyst,61300,USD,61300.0,CA,100,CA,Medium,0.20797101836085058,-0.7450786625009725,Medio,Remoto
+2022,Senior,Full-Time,data engineer,160000,USD,160000.0,US,0,US,Large,0.5592096951839022,0.8220067034052283,Alto,Presencial
+2022,Senior,Full-Time,data scientist,138600,USD,138600.0,US,100,US,Medium,0.48305460213412194,0.4822333819220196,Medio,Remoto
+2022,Senior,Full-Time,data engineer,136000,USD,136000.0,US,0,US,Medium,0.47380211419349444,0.4409525110876111,Medio,Presencial
+2022,Mid-level,Full-Time,data analyst,58000,USD,58000.0,US,0,US,Small,0.19622747597466952,-0.7974736139446449,Bajo,Presencial
+2022,Executive,Full-Time,analytics engineer,135000,USD,135000.0,US,100,US,Medium,0.4702434649855608,0.425075253074377,Medio,Remoto
+2022,Senior,Full-Time,data scientist,170000,USD,170000.0,US,100,US,Medium,0.5947961872632387,0.9807792835375688,Alto,Remoto
+2022,Senior,Full-Time,machine learning engineer,189650,USD,189650.0,US,0,US,Medium,0.664723644199135,1.2927674034976178,Alto,Presencial
+2022,Senior,Full-Time,machine learning engineer,164996,USD,164996.0,US,0,US,Medium,0.5769887066267387,0.9013294844393456,Alto,Presencial
+2022,Mid-level,Full-Time,etl developer,50000,EUR,54957.0,GR,0,GR,Medium,0.18539850643492742,-0.8457881100789161,Bajo,Presencial
+2022,Executive,Full-Time,lead data engineer,150000,CAD,118187.0,CA,100,CA,Small,0.41041189585257226,0.15813091409787292,Medio,Remoto
+2022,Senior,Full-Time,data analyst,132000,USD,132000.0,US,0,US,Medium,0.4595675173617598,0.37744347903467484,Medio,Presencial
+2022,Senior,Full-Time,data architect,208775,USD,208775.0,US,100,US,Medium,0.7327828103008661,1.596419963000719,Alto,Remoto
+2022,Senior,Full-Time,data architect,147800,USD,147800.0,US,100,US,Medium,0.5157941748471115,0.6283041556437728,Alto,Remoto
+2022,Senior,Full-Time,data engineer,136994,USD,136994.0,US,100,US,Medium,0.4773394115061805,0.45673450555276573,Medio,Remoto
+2022,Senior,Full-Time,data engineer,101570,USD,101570.0,US,100,US,Medium,0.35127782196433877,-0.10570148230803729,Medio,Remoto
+2022,Senior,Full-Time,data analyst,128875,USD,128875.0,US,100,US,Medium,0.44844673858696715,0.32782704774331844,Medio,Remoto
+2022,Senior,Full-Time,data analyst,93700,USD,93700.0,US,100,US,Medium,0.3232712526979009,-0.23065550287218928,Medio,Remoto
+2022,Executive,Full-Time,head of machine learning,6000000,INR,79039.0,IN,50,IN,Large,0.27109789666038564,-0.4634319826042137,Medio,Híbrido
+2022,Entry-level,Full-Time,machine learning engineer,28500,GBP,37300.0,GB,100,GB,Large,0.12256343737044294,-1.1261328548185896,Bajo,Remoto
+2022,Senior,Full-Time,data analyst,164000,USD,164000.0,US,0,US,Medium,0.5734442920156367,0.8855157354581644,Alto,Presencial
+2022,Senior,Full-Time,data engineer,155000,USD,155000.0,US,100,US,Medium,0.5414164491442339,0.742620413339058,Alto,Remoto
+2022,Mid-level,Full-Time,machine learning engineer,95000,GBP,124333.0,GB,0,GB,Medium,0.43228335388453254,0.2557125418472094,Medio,Presencial
+2022,Mid-level,Full-Time,machine learning engineer,75000,GBP,98158.0,GB,0,GB,Medium,0.33913571086686917,-0.15987468664919188,Medio,Presencial
+2022,Mid-level,Full-Time,ai scientist,120000,USD,120000.0,US,0,US,Medium,0.416863726866556,0.18691638287586626,Medio,Presencial
+2022,Senior,Full-Time,data analytics manager,145000,USD,145000.0,US,100,US,Medium,0.5058299570648974,0.5838478332067175,Alto,Remoto
+2022,Senior,Full-Time,data analytics manager,105400,USD,105400.0,US,100,US,Medium,0.36490744843072465,-0.04489158411735088,Medio,Remoto
+2022,Mid-level,Full-Time,machine learning engineer,80000,EUR,87932.0,FR,100,DE,Medium,0.3027449640665396,-0.3222355270925233,Medio,Remoto
+2022,Mid-level,Full-Time,data engineer,90000,GBP,117789.0,GB,0,GB,Medium,0.4089955534678147,0.15181176540860578,Medio,Presencial
+2022,Senior,Full-Time,data scientist,215300,USD,215300.0,US,100,US,Large,0.7560029963826331,1.7000190715370713,Alto,Remoto
+2022,Senior,Full-Time,data scientist,158200,USD,158200.0,US,100,US,Large,0.5528041266096216,0.793427638981407,Alto,Remoto
+2022,Senior,Full-Time,data engineer,209100,USD,209100.0,US,100,US,Large,0.7339393712934446,1.6015800718550202,Alto,Remoto
+2022,Senior,Full-Time,data engineer,154600,USD,154600.0,US,100,US,Large,0.5399929894610604,0.7362695101337644,Alto,Remoto
+2022,Senior,Full-Time,data analyst,115934,USD,115934.0,US,0,US,Medium,0.40239425918709776,0.1223594517940566,Medio,Presencial
+2022,Senior,Full-Time,data analyst,81666,USD,81666.0,US,0,US,Medium,0.28044646812962737,-0.4217224258034478,Medio,Presencial
+2022,Senior,Full-Time,data engineer,175000,USD,175000.0,US,100,US,Medium,0.6125894333029069,1.060165573603739,Alto,Remoto
+2022,Mid-level,Full-Time,data engineer,75000,GBP,98158.0,GB,0,GB,Medium,0.33913571086686917,-0.15987468664919188,Medio,Presencial
+2022,Senior,Full-Time,data engineer,183600,USD,183600.0,US,100,US,Large,0.6431938164911364,1.196709992517552,Alto,Remoto
+2022,Mid-level,Full-Time,data analyst,40000,GBP,52351.0,GB,100,GB,Medium,0.17612466659905232,-0.887164244461404,Bajo,Remoto
+2022,Senior,Full-Time,data scientist,180000,USD,180000.0,US,100,US,Medium,0.6303826793425752,1.1395518636699093,Alto,Remoto
+2022,Mid-level,Full-Time,data scientist,55000,GBP,71982.0,GB,0,GB,Medium,0.24598450919999787,-0.5754777924036064,Medio,Presencial
+2022,Mid-level,Full-Time,data scientist,35000,GBP,45807.0,GB,0,GB,Medium,0.1528368661823345,-0.9910650209000076,Bajo,Presencial
+2022,Mid-level,Full-Time,data engineer,60000,EUR,65949.0,GR,100,GR,Medium,0.22451517852853414,-0.6712652899974474,Medio,Remoto
+2022,Mid-level,Full-Time,data engineer,45000,EUR,49461.0,GR,100,GR,Medium,0.16584017038812407,-0.9330495201196504,Bajo,Remoto
+2022,Mid-level,Full-Time,data engineer,60000,GBP,78526.0,GB,100,GB,Medium,0.26927230961671567,-0.47157701596500273,Medio,Remoto
+2022,Mid-level,Full-Time,data engineer,45000,GBP,58894.0,GB,100,GB,Medium,0.19940890836656222,-0.7832793452808137,Bajo,Remoto
+2022,Senior,Full-Time,data scientist,260000,USD,260000.0,US,100,US,Medium,0.9150746159772675,2.409732504728633,Alto,Remoto
+2022,Senior,Full-Time,data science engineer,60000,USD,60000.0,AR,100,MX,Large,0.20334477439053683,-0.7657190979181767,Medio,Remoto
+2022,Mid-level,Full-Time,data engineer,63900,USD,63900.0,US,0,US,Medium,0.21722350630147808,-0.703797791666564,Medio,Presencial
+2022,Mid-level,Full-Time,machine learning scientist,160000,USD,160000.0,US,100,US,Large,0.5592096951839022,0.8220067034052283,Alto,Remoto
+2022,Mid-level,Full-Time,machine learning scientist,112300,USD,112300.0,US,100,US,Large,0.38946212796546686,0.06466149617396406,Medio,Remoto
+2022,Mid-level,Full-Time,data science manager,241000,USD,241000.0,US,100,US,Medium,0.847460281026528,2.1080646024771865,Alto,Remoto
+2022,Mid-level,Full-Time,data science manager,159000,USD,159000.0,US,100,US,Medium,0.5556510459759685,0.8061294453919943,Alto,Remoto
+2022,Senior,Full-Time,data scientist,180000,USD,180000.0,US,0,US,Medium,0.6303826793425752,1.1395518636699093,Alto,Presencial
+2022,Senior,Full-Time,data scientist,80000,USD,80000.0,US,0,US,Medium,0.2745177585492099,-0.4481739376534958,Medio,Presencial
+2022,Mid-level,Full-Time,data engineer,82900,USD,82900.0,US,0,US,Medium,0.2848378412522175,-0.402129889415117,Medio,Presencial
+2022,Senior,Full-Time,data engineer,100800,USD,100800.0,US,100,US,Large,0.34853766207422987,-0.1179269709782275,Medio,Remoto
+2022,Mid-level,Full-Time,data engineer,45000,EUR,49461.0,ES,100,ES,Medium,0.16584017038812407,-0.9330495201196504,Bajo,Remoto
+2022,Senior,Full-Time,data scientist,140400,USD,140400.0,US,0,US,Large,0.48946017070840253,0.5108124463458409,Alto,Presencial
+2022,Mid-level,Full-Time,data analyst,30000,GBP,39263.0,GB,100,GB,Medium,0.12954906576561667,-1.0949657973386113,Bajo,Remoto
+2022,Mid-level,Full-Time,data analyst,40000,EUR,43966.0,ES,100,ES,Medium,0.14628539299052865,-1.0202950529023715,Bajo,Remoto
+2022,Mid-level,Full-Time,data analyst,30000,EUR,32974.0,ES,100,ES,Medium,0.10716872089692195,-1.1948178729838401,Bajo,Remoto
+2022,Mid-level,Full-Time,data engineer,80000,EUR,87932.0,ES,100,ES,Medium,0.3027449640665396,-0.3222355270925233,Medio,Remoto
+2022,Mid-level,Full-Time,data engineer,70000,EUR,76940.0,ES,100,ES,Medium,0.2636282919729329,-0.496758347173992,Medio,Remoto
+2022,Mid-level,Full-Time,data engineer,80000,GBP,104702.0,GB,100,GB,Medium,0.36242351128358696,-0.05597391021058824,Medio,Remoto
+2022,Mid-level,Full-Time,data engineer,70000,GBP,91614.0,GB,100,GB,Medium,0.3158479104501513,-0.2637754630877955,Medio,Remoto
+2022,Mid-level,Full-Time,data engineer,60000,EUR,65949.0,ES,100,ES,Medium,0.22451517852853414,-0.6712652899974474,Medio,Remoto
+2022,Mid-level,Full-Time,data engineer,80000,EUR,87932.0,GR,100,GR,Medium,0.3027449640665396,-0.3222355270925233,Medio,Remoto
+2022,Mid-level,Full-Time,data analyst,40000,EUR,43966.0,GR,100,GR,Medium,0.14628539299052865,-1.0202950529023715,Bajo,Remoto
+2022,Mid-level,Full-Time,data analyst,30000,EUR,32974.0,GR,100,GR,Medium,0.10716872089692195,-1.1948178729838401,Bajo,Remoto
+2022,Mid-level,Full-Time,data engineer,75000,GBP,98158.0,GB,100,GB,Medium,0.33913571086686917,-0.15987468664919188,Medio,Remoto
+2022,Senior,Full-Time,data scientist,215300,USD,215300.0,US,0,US,Large,0.7560029963826331,1.7000190715370713,Alto,Presencial
+2022,Mid-level,Full-Time,data engineer,70000,EUR,76940.0,GR,100,GR,Medium,0.2636282919729329,-0.496758347173992,Medio,Remoto
+2022,Senior,Full-Time,data engineer,180000,USD,180000.0,US,100,US,Medium,0.6303826793425752,1.1395518636699093,Alto,Remoto
+2022,Entry-level,Full-Time,ml engineer,20000,EUR,21983.0,PT,100,PT,Large,0.06805560745252318,-1.3693248158072957,Bajo,Remoto
+2022,Senior,Full-Time,data engineer,80000,USD,80000.0,US,100,US,Medium,0.2745177585492099,-0.4481739376534958,Medio,Remoto
+2022,Mid-level,Full-Time,machine learning developer,100000,CAD,78791.0,CA,100,CA,Medium,0.2702153516568181,-0.4673695425914957,Medio,Remoto
+2022,Executive,Full-Time,director of data science,250000,CAD,196979.0,CA,50,CA,Large,0.6908049842440807,1.4091318274766103,Alto,Híbrido
+2022,Mid-level,Full-Time,machine learning engineer,120000,USD,120000.0,US,100,US,Small,0.416863726866556,0.18691638287586626,Medio,Remoto
+2022,Entry-level,Full-Time,computer vision engineer,125000,USD,125000.0,US,0,US,Medium,0.43465697290622424,0.2663026729420365,Medio,Presencial
+2022,Mid-level,Full-Time,nlp engineer,240000,CNY,37236.0,US,50,US,Large,0.12233568382113517,-1.1271489993314368,Bajo,Híbrido
+2022,Senior,Full-Time,data engineer,105000,USD,105000.0,US,100,US,Medium,0.3634839887475512,-0.0512424873226445,Medio,Remoto
+2022,Senior,Full-Time,lead machine learning engineer,80000,EUR,87932.0,DE,0,DE,Medium,0.3027449640665396,-0.3222355270925233,Medio,Presencial
+2022,Mid-level,Full-Time,business data analyst,1400000,INR,18442.0,IN,100,IN,Medium,0.055454430607230105,-1.4255461864321575,Bajo,Remoto
+2022,Mid-level,Full-Time,data scientist,2400000,INR,31615.0,IN,100,IN,Large,0.10233251662334011,-1.2163950666238252,Bajo,Remoto
+2022,Mid-level,Full-Time,machine learning infrastructure engineer,53000,EUR,58255.0,PT,50,PT,Large,0.19713493152269262,-0.7934249131512702,Bajo,Híbrido
+2022,Entry-level,Full-Time,financial data analyst,100000,USD,100000.0,US,50,US,Large,0.34569074270788297,-0.13062877738881476,Medio,Híbrido
+2022,Mid-level,Part-Time,data engineer,50000,EUR,54957.0,DE,50,DE,Large,0.18539850643492742,-0.8457881100789161,Bajo,Híbrido
+2022,Entry-level,Full-Time,data scientist,1400000,INR,18442.0,IN,100,IN,Medium,0.055454430607230105,-1.4255461864321575,Bajo,Remoto
+2022,Senior,Full-Time,principal data scientist,148000,EUR,162674.0,DE,100,DE,Medium,0.5687255231659167,0.8644624913326161,Alto,Remoto
+2022,Entry-level,Full-Time,data engineer,120000,USD,120000.0,US,100,US,Medium,0.416863726866556,0.18691638287586626,Medio,Remoto
+2022,Senior,Full-Time,research scientist,144000,USD,144000.0,US,50,US,Large,0.5022713078569637,0.5679705751934835,Alto,Híbrido
+2022,Senior,Full-Time,data scientist,104890,USD,104890.0,US,100,US,Medium,0.3630925373346785,-0.052988985704100246,Medio,Remoto
+2022,Senior,Full-Time,data engineer,100000,USD,100000.0,US,100,US,Medium,0.34569074270788297,-0.13062877738881476,Medio,Remoto
+2022,Senior,Full-Time,data scientist,140000,USD,140000.0,US,100,US,Medium,0.48803671102522905,0.5044615431405473,Alto,Remoto
+2022,Mid-level,Full-Time,data analyst,135000,USD,135000.0,US,100,US,Medium,0.4702434649855608,0.425075253074377,Medio,Remoto
+2022,Mid-level,Full-Time,data analyst,50000,USD,50000.0,US,100,US,Medium,0.16775828231120032,-0.9244916780505172,Bajo,Remoto
+2022,Senior,Full-Time,data scientist,220000,USD,220000.0,US,100,US,Medium,0.7727286476599213,1.7746421841992712,Alto,Remoto
+2022,Mid-level,Full-Time,data scientist,140000,GBP,183228.0,GB,0,GB,Medium,0.641869998985785,1.1908036525366288,Alto,Presencial
+2022,Mid-level,Full-Time,data scientist,70000,GBP,91614.0,GB,0,GB,Medium,0.3158479104501513,-0.2637754630877955,Medio,Presencial
+2022,Senior,Full-Time,data scientist,185100,USD,185100.0,US,100,US,Medium,0.6485317903030369,1.220525879537403,Alto,Remoto
+2022,Senior,Full-Time,machine learning engineer,220000,USD,220000.0,US,100,US,Medium,0.7727286476599213,1.7746421841992712,Alto,Remoto
+2022,Mid-level,Full-Time,data scientist,200000,USD,200000.0,US,100,US,Medium,0.7015556635012483,1.4570970239345902,Alto,Remoto
+2022,Mid-level,Full-Time,data scientist,120000,USD,120000.0,US,100,US,Medium,0.416863726866556,0.18691638287586626,Medio,Remoto
+2022,Senior,Full-Time,machine learning engineer,120000,USD,120000.0,AE,100,AE,Small,0.416863726866556,0.18691638287586626,Medio,Remoto
+2022,Senior,Full-Time,machine learning engineer,65000,USD,65000.0,AE,100,AE,Small,0.2211380204302051,-0.6863328078520066,Medio,Remoto
+2022,Executive,Full-Time,data engineer,324000,USD,283864.5,US,100,US,Medium,1.0,2.7886353285854573,Alto,Remoto
+2022,Executive,Full-Time,data engineer,216000,USD,216000.0,US,100,US,Medium,0.7584940508281867,1.711133152146335,Alto,Remoto
+2022,Senior,Full-Time,data engineer,210000,USD,210000.0,US,100,US,Medium,0.7371421555805848,1.6158696040669307,Alto,Remoto
+2022,Senior,Full-Time,machine learning engineer,120000,USD,120000.0,US,100,US,Medium,0.416863726866556,0.18691638287586626,Medio,Remoto
+2022,Senior,Full-Time,data scientist,230000,USD,230000.0,US,100,US,Medium,0.8083151397392578,1.9334147643316117,Alto,Remoto
+2022,Entry-level,Part-Time,data scientist,100000,USD,100000.0,DZ,50,DZ,Medium,0.34569074270788297,-0.13062877738881476,Medio,Híbrido
+2022,Mid-level,Freelance,data scientist,100000,USD,100000.0,CA,100,US,Medium,0.34569074270788297,-0.13062877738881476,Medio,Remoto
+2022,Entry-level,Contract,applied machine learning scientist,29000,EUR,31875.0,TN,100,CZ,Medium,0.10325776541740286,-1.2122669795403844,Bajo,Remoto
+2022,Senior,Full-Time,head of data,200000,USD,200000.0,MY,100,US,Medium,0.7015556635012483,1.4570970239345902,Alto,Remoto
+2022,Mid-level,Full-Time,principal data analyst,75000,USD,75000.0,CA,100,CA,Small,0.25672451250954165,-0.527560227719666,Medio,Remoto
+2022,Mid-level,Full-Time,data scientist,150000,PLN,35590.0,PL,100,PL,Large,0.11647814722487639,-1.1532829660212198,Bajo,Remoto
+2022,Senior,Full-Time,machine learning developer,100000,CAD,78791.0,CA,100,CA,Medium,0.2702153516568181,-0.4673695425914957,Medio,Remoto
+2022,Senior,Full-Time,data scientist,100000,USD,100000.0,BR,100,US,Medium,0.34569074270788297,-0.13062877738881476,Medio,Remoto
+2022,Mid-level,Full-Time,machine learning scientist,153000,USD,153000.0,US,50,US,Medium,0.5342991507283665,0.7108658973125899,Alto,Híbrido
+2022,Entry-level,Full-Time,data engineer,52800,EUR,58035.0,PK,100,DE,Medium,0.1963520286969472,-0.7969179099141817,Bajo,Remoto
+2022,Senior,Full-Time,data scientist,165000,USD,165000.0,US,100,US,Medium,0.5770029412235704,0.9013929934713986,Alto,Remoto
+2022,Senior,Full-Time,research scientist,85000,EUR,93427.0,FR,50,FR,Large,0.32229974146413504,-0.23498999430980216,Medio,Híbrido
+2022,Entry-level,Full-Time,data scientist,66500,CAD,52396.0,CA,100,CA,Large,0.17628480581340933,-0.8864497678508085,Bajo,Remoto
+2022,Senior,Full-Time,machine learning engineer,57000,EUR,62651.0,NL,100,NL,Large,0.21277875344076896,-0.7236284869250933,Medio,Remoto
+2022,Mid-level,Full-Time,head of data,30000,EUR,32974.0,EE,100,EE,Small,0.10716872089692195,-1.1948178729838401,Bajo,Remoto
+2022,Entry-level,Full-Time,data scientist,40000,USD,40000.0,JP,100,MY,Large,0.1321717902318638,-1.0832642581828578,Bajo,Remoto
+2022,Mid-level,Full-Time,machine learning engineer,121000,AUD,87425.0,AU,100,AU,Large,0.30094072891811724,-0.33028529690523295,Medio,Remoto
+2022,Senior,Full-Time,data engineer,115000,USD,115000.0,US,100,US,Medium,0.39907048082688773,0.107530092809696,Medio,Remoto
+2022,Entry-level,Full-Time,data scientist,120000,AUD,86703.0,AU,50,AU,Medium,0.29837138418998915,-0.34174867719078794,Medio,Híbrido
+2022,Mid-level,Full-Time,applied machine learning scientist,75000,USD,75000.0,BO,100,US,Large,0.25672451250954165,-0.527560227719666,Medio,Remoto
+2022,Mid-level,Full-Time,research scientist,59000,EUR,64849.0,AT,0,AT,Large,0.2206006643998071,-0.6887302738120048,Medio,Presencial
+2022,Entry-level,Full-Time,research scientist,120000,USD,120000.0,US,100,US,Large,0.416863726866556,0.18691638287586626,Medio,Remoto
+2022,Mid-level,Full-Time,applied data scientist,157000,USD,157000.0,US,100,US,Large,0.5485337475601012,0.7743749293655261,Alto,Remoto
+2022,Entry-level,Full-Time,computer vision software engineer,150000,USD,150000.0,AU,100,AU,Small,0.5236232031045657,0.6632341232728878,Alto,Remoto
+2022,Mid-level,Full-Time,business data analyst,90000,CAD,70912.0,CA,50,CA,Large,0.24217675454750887,-0.5924664584777668,Medio,Híbrido
+2022,Entry-level,Full-Time,data engineer,65000,USD,65000.0,US,100,US,Small,0.2211380204302051,-0.6863328078520066,Medio,Remoto
+2022,Senior,Full-Time,machine learning engineer,65000,EUR,71444.0,IE,100,IE,Small,0.24406995592612957,-0.5840197572147263,Medio,Remoto
+2022,Entry-level,Full-Time,data analytics engineer,20000,USD,20000.0,PK,0,PK,Medium,0.06099880607319074,-1.4008094184475388,Bajo,Presencial
+2022,Mid-level,Full-Time,data scientist,48000,USD,48000.0,RU,100,US,Small,0.16064098389533302,-0.9562461940769854,Bajo,Remoto
+2022,Senior,Full-Time,data science manager,152500,USD,152500.0,US,100,US,Medium,0.5325198261243997,0.7029272683059729,Alto,Remoto
+2022,Mid-level,Full-Time,data engineer,62000,EUR,68147.0,FR,100,FR,Medium,0.2323370894875723,-0.636367076884359,Medio,Remoto
+2022,Mid-level,Full-Time,data scientist,115000,CHF,122346.0,CH,0,CH,Large,0.42521231790836833,0.22416443017491333,Medio,Presencial
+2022,Senior,Full-Time,applied data scientist,380000,USD,283864.5,US,100,US,Large,1.0,2.7886353285854573,Alto,Remoto
+2022,Mid-level,Full-Time,data scientist,88000,CAD,69336.0,CA,100,CA,Medium,0.2365683233958054,-0.6174890171066236,Medio,Remoto
+2022,Entry-level,Full-Time,computer vision engineer,10000,USD,10000.0,PT,100,LU,Medium,0.025412313993854213,-1.5595819985798793,Bajo,Remoto
+2022,Mid-level,Full-Time,data analyst,20000,USD,20000.0,GR,100,GR,Small,0.06099880607319074,-1.4008094184475388,Bajo,Remoto
+2022,Senior,Full-Time,data analytics lead,405000,USD,283864.5,US,100,US,Large,1.0,2.7886353285854573,Alto,Remoto
+2022,Mid-level,Full-Time,data scientist,135000,USD,135000.0,US,100,US,Large,0.4702434649855608,0.425075253074377,Medio,Remoto
+2022,Senior,Full-Time,applied data scientist,177000,USD,177000.0,US,100,US,Large,0.6197067317187742,1.091920089630207,Alto,Remoto
+2022,Mid-level,Full-Time,data scientist,78000,USD,78000.0,US,100,US,Medium,0.26740046013334257,-0.47992845367996384,Medio,Remoto
+2022,Senior,Full-Time,data analyst,100000,USD,100000.0,US,100,US,Medium,0.34569074270788297,-0.13062877738881476,Medio,Remoto
+2022,Mid-level,Full-Time,data analyst,85000,USD,85000.0,CA,0,CA,Medium,0.29231100458887815,-0.3687876475873255,Medio,Presencial
+2022,Mid-level,Full-Time,data analyst,75000,USD,75000.0,CA,0,CA,Medium,0.25672451250954165,-0.527560227719666,Medio,Presencial
+2022,Senior,Full-Time,machine learning engineer,214000,USD,214000.0,US,100,US,Medium,0.7513767524123194,1.679378636119867,Alto,Remoto
+2022,Senior,Full-Time,machine learning engineer,192600,USD,192600.0,US,100,US,Medium,0.6752216593625392,1.3396053146366582,Alto,Remoto
+2022,Senior,Full-Time,data architect,266400,USD,266400.0,US,100,US,Medium,0.9378499709080428,2.5113469560133312,Alto,Remoto
+2022,Senior,Full-Time,data architect,213120,USD,213120.0,US,100,US,Medium,0.7482451411093378,1.6654066490682211,Alto,Remoto
+2022,Mid-level,Full-Time,data scientist,141300,USD,141300.0,US,0,US,Medium,0.49266295499554275,0.5251019785577515,Alto,Presencial
+2022,Mid-level,Full-Time,data scientist,102100,USD,102100.0,US,0,US,Medium,0.3531639060445436,-0.09728653556102325,Medio,Presencial
+2022,Senior,Full-Time,data analyst,115934,USD,115934.0,US,100,US,Medium,0.40239425918709776,0.1223594517940566,Medio,Remoto
+2022,Senior,Full-Time,data analyst,81666,USD,81666.0,US,100,US,Medium,0.28044646812962737,-0.4217224258034478,Medio,Remoto
+2022,Mid-level,Full-Time,data engineer,206699,USD,206699.0,US,0,US,Medium,0.7253950545451958,1.5634587753652451,Alto,Presencial
+2022,Mid-level,Full-Time,data engineer,99100,USD,99100.0,US,0,US,Medium,0.34248795842074264,-0.1449183096007254,Medio,Presencial
+2022,Senior,Full-Time,data engineer,130000,USD,130000.0,US,100,US,Medium,0.45245021894589255,0.3456889630082068,Medio,Remoto
+2022,Senior,Full-Time,data engineer,110500,USD,110500.0,US,100,US,Medium,0.38305655939118627,0.03608243175014278,Medio,Remoto
+2022,Senior,Full-Time,data analyst,99050,USD,99050.0,US,100,US,Medium,0.342310025960346,-0.1457121725013871,Medio,Remoto
+2022,Senior,Full-Time,data engineer,160000,USD,160000.0,US,100,US,Medium,0.5592096951839022,0.8220067034052283,Alto,Remoto
+2022,Senior,Full-Time,data scientist,205300,USD,205300.0,US,0,US,Large,0.7204165043032966,1.5412464914047308,Alto,Presencial
+2022,Senior,Full-Time,data scientist,176000,USD,176000.0,US,100,US,Medium,0.6161480825108406,1.076042831616973,Alto,Remoto
+2022,Senior,Full-Time,data scientist,144000,USD,144000.0,US,100,US,Medium,0.5022713078569637,0.5679705751934835,Alto,Remoto
+2022,Senior,Full-Time,data engineer,200100,USD,200100.0,US,100,US,Medium,0.7019115284220416,1.4586847497359137,Alto,Remoto
+2022,Senior,Full-Time,data engineer,145000,USD,145000.0,US,100,US,Medium,0.5058299570648974,0.5838478332067175,Alto,Remoto
+2022,Senior,Full-Time,data engineer,70500,USD,70500.0,US,0,US,Medium,0.24071059107384019,-0.5990078887792193,Medio,Presencial
+2022,Senior,Full-Time,data scientist,205300,USD,205300.0,US,0,US,Medium,0.7204165043032966,1.5412464914047308,Alto,Presencial
+2022,Senior,Full-Time,data scientist,140400,USD,140400.0,US,0,US,Medium,0.48946017070840253,0.5108124463458409,Alto,Presencial
+2022,Senior,Full-Time,analytics engineer,205300,USD,205300.0,US,0,US,Medium,0.7204165043032966,1.5412464914047308,Alto,Presencial
+2022,Senior,Full-Time,analytics engineer,184700,USD,184700.0,US,0,US,Medium,0.6471083306198634,1.2141749763321092,Alto,Presencial
+2022,Senior,Full-Time,data engineer,175100,USD,175100.0,US,100,US,Medium,0.6129452982237004,1.0617532994050625,Alto,Remoto
+2022,Senior,Full-Time,data engineer,140250,USD,140250.0,US,100,US,Medium,0.48892637332721245,0.5084308576438558,Alto,Remoto
+2022,Senior,Full-Time,data analyst,116150,USD,116150.0,US,100,US,Medium,0.40316292741601145,0.12578893952491516,Medio,Remoto
+2022,Senior,Full-Time,data engineer,54000,USD,54000.0,US,0,US,Medium,0.1819928791429349,-0.8609826459975811,Bajo,Presencial
+2022,Mid-level,Full-Time,data analyst,50000,GBP,65438.0,GB,0,GB,Medium,0.22269670878328005,-0.67937856884221,Medio,Presencial
+2022,Senior,Full-Time,data analyst,80000,USD,80000.0,US,100,US,Medium,0.2745177585492099,-0.4481739376534958,Medio,Remoto
+2022,Senior,Full-Time,data scientist,210000,USD,210000.0,US,100,US,Medium,0.7371421555805848,1.6158696040669307,Alto,Remoto
+2022,Senior,Full-Time,data analyst,69000,USD,69000.0,US,100,US,Medium,0.2353726172619397,-0.6228237757990703,Medio,Remoto
+2022,Senior,Full-Time,data analyst,150075,USD,150075.0,US,100,US,Medium,0.5238901017951606,0.6644249176238803,Alto,Remoto
+2022,Senior,Full-Time,data engineer,25000,USD,25000.0,US,100,US,Medium,0.07879205211285902,-1.3214231283813684,Bajo,Remoto
+2022,Senior,Full-Time,data analyst,126500,USD,126500.0,US,100,US,Medium,0.4399949467181247,0.29011855996188757,Medio,Remoto
+2022,Senior,Full-Time,data analyst,106260,USD,106260.0,US,100,US,Medium,0.3679678867495476,-0.031237142225969596,Medio,Remoto
+2022,Senior,Full-Time,data engineer,220110,USD,220110.0,US,100,US,Medium,0.773120099072794,1.7763886825807271,Alto,Remoto
+2022,Senior,Full-Time,data engineer,160080,USD,160080.0,US,100,US,Medium,0.5594943871205369,0.823276884046287,Alto,Remoto
+2022,Senior,Full-Time,data analyst,105000,USD,105000.0,US,100,US,Medium,0.3634839887475512,-0.0512424873226445,Medio,Remoto
+2022,Senior,Full-Time,data analyst,110925,USD,110925.0,US,100,US,Medium,0.3845689853045581,0.04283026640576725,Medio,Remoto
+2022,Mid-level,Full-Time,data analyst,35000,GBP,45807.0,GB,0,GB,Medium,0.1528368661823345,-0.9910650209000076,Bajo,Presencial
+2022,Senior,Full-Time,data analyst,60000,USD,60000.0,US,100,US,Medium,0.20334477439053683,-0.7657190979181767,Medio,Remoto
+2022,Senior,Full-Time,data architect,192564,USD,192564.0,US,100,US,Medium,0.6750935479910536,1.3390337333481819,Alto,Remoto
+2022,Senior,Full-Time,data architect,144854,USD,144854.0,US,100,US,Medium,0.505310394280539,0.5815297535367854,Alto,Remoto
+2022,Senior,Full-Time,data scientist,150000,USD,150000.0,US,100,US,Medium,0.5236232031045657,0.6632341232728878,Alto,Remoto
+2022,Senior,Full-Time,data analytics manager,150260,USD,150260.0,US,100,US,Medium,0.5245484518986284,0.6673622103563286,Alto,Remoto
+2022,Senior,Full-Time,data analytics manager,109280,USD,109280.0,US,100,US,Medium,0.37871500735750724,0.016712176973997236,Medio,Remoto
+2022,Mid-level,Full-Time,data scientist,160000,USD,160000.0,US,100,US,Medium,0.5592096951839022,0.8220067034052283,Alto,Remoto
+2022,Mid-level,Full-Time,data scientist,130000,USD,130000.0,US,100,US,Medium,0.45245021894589255,0.3456889630082068,Medio,Remoto
+2022,Entry-level,Full-Time,data analyst,67000,USD,67000.0,CA,0,CA,Medium,0.22825531884607242,-0.6545782918255384,Medio,Presencial
+2022,Entry-level,Full-Time,data analyst,52000,USD,52000.0,CA,0,CA,Medium,0.1748755807270676,-0.8927371620240492,Bajo,Presencial
+2022,Senior,Full-Time,data engineer,154000,USD,154000.0,US,100,US,Medium,0.5378577999363002,0.726743155325824,Alto,Remoto
+2022,Senior,Full-Time,data engineer,126000,USD,126000.0,US,100,US,Medium,0.43821562211415793,0.28217993095527055,Medio,Remoto
+2022,Senior,Full-Time,data analyst,129000,USD,129000.0,US,0,US,Medium,0.44889156973795885,0.3298117049949727,Medio,Presencial
+2022,Senior,Full-Time,data analyst,150000,USD,150000.0,US,100,US,Medium,0.5236232031045657,0.6632341232728878,Alto,Remoto
+2022,Mid-level,Full-Time,ai scientist,200000,USD,200000.0,IN,100,US,Large,0.7015556635012483,1.4570970239345902,Alto,Remoto
